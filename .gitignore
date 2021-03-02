@@ -1,0 +1,7 @@
+# compiled files
+*.exe
+*.out
+
+# IDE and editor config
+.vscode/
+.idea/
